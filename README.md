@@ -44,3 +44,11 @@ For the training on Intake, ILAMB and ESMValTool, you will need to clone a local
    cd /scratch/nf33/$USER
    git clone https://github.com/ACCESS-NRI/workshop-training-2023.git
    ```
+
+## Licence
+
+Except where otherwise noted, the documentation and training material in this repository are licensed under [Creative Commons Attribution 4.0 International](LICENSE).
+
+Original software, scripts, and executable code examples (including code cells in notebooks) are licensed under the [Apache License, Version 2.0](LICENSES/Apache-2.0.txt).
+
+Third-party material and datasets retain their original licences and attribution requirements.
